@@ -6,8 +6,8 @@ float math ;
 float arabic;
 float english;
 float physics;
-float deen;
-float bio;
+float religion;
+float sport;
 float computer;
 
 float sum;
@@ -26,10 +26,10 @@ printf("enter the physics's grade ");
 scanf("%f" , &physics);
 
 printf("enter the deen's grade ");
-scanf("%f" , &deen);
+scanf("%f" , &religion);
 
 printf("enter the bio's grade ");
-scanf("%f" , &bio);
+scanf("%f" , &sport);
 
 printf("enter the computer's grade ");
 scanf("%f" , &computer);
